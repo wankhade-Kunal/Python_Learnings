@@ -1,5 +1,5 @@
 # print(1 + 2) #3 (adding)
-# print("kunal" + "wankhade") #concatenate
+# print("Rohit" + "Sharma") #concatenate
 # print([1,2,3] + [4,5,6]) # merge
 
 
