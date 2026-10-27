@@ -12,9 +12,9 @@ print(type(name))
 print(type(age))
 print(type(weight))
 
-name1 = "Payal"
+name1 = "Tom"
 name2 = "Kunal"
-name3 = "Kaayaa"
+name3 = "Nolen"
 
 print (name1, name2, name3)
 
