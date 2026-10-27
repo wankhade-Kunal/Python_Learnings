@@ -20,5 +20,5 @@ class Person:
     def welcome(self):
         self.__hello()
 
-ram = Person()
-print(ram.welcome())
+rohit = Person()
+print(rohit.welcome())
