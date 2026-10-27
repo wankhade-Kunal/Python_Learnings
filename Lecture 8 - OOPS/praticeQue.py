@@ -12,13 +12,13 @@
 #             sum += val
 #         print("Hi", self.name, "Your avg score is: ", sum/3)
 
-# stu1 = Student("Ram", [98,23,45])
+# stu1 = Student("Ron", [98,23,45])
 # stu1.getAvg()
 
-# stu2 = Student("Ravan", [24,55,67])
+# stu2 = Student("Rohit", [24,55,67])
 # stu2.getAvg()
 
-# stu3 = Student("Krishna", [44,56,77])
+# stu3 = Student("Krish", [44,56,77])
 # stu3.getAvg()
 
 
