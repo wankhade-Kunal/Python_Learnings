@@ -2,7 +2,7 @@
 
 # count = 0
 # while count < 5 :
-#     print("I Luv You")
+#     print("Haanjii Namsate")
 #     count = count + 1
 
 
