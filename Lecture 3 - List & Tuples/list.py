@@ -8,9 +8,9 @@
 # # Strings are Immutable (Dosen't Change)
 # # List are Mutable (Change)
 
-# students = ["Karan", 19, "Payal", 28, "Adi", 21]
+# students = ["Karan", 19, "Roshni", 28, "Adi", 21]
 # print(students[0])
-# students[0] = "Kayal"
+# students[0] = "Ramesh"
 # print(students[1:4])
 
 
